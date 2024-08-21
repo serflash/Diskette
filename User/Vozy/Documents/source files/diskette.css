@@ -29,7 +29,7 @@
     --background-tertiary: var(--projectCabBackground2);
     --background-secondary: var(--projectCabBackground2);
     --background-secondary-alt: var(--projectCabBackground2);
-    --background-primary: var(--projectCabBackground);
+    --background-primary: transparent;
     --channeltextarea-background: var(--projectCabTextBackground);
     --modal-background: var(--projectCabBackground2);
     --modal-footer-background: var(--projectCabBackground2);
